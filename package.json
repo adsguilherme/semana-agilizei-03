@@ -8,7 +8,7 @@
     "cy:run": "npx cypress run",
     "nyan": "cypress run --reporter nyan",
     "cy:open": "npx cypress open",
-    "dashboard": "npx cypress run --record --key 7136d7b9-f154-478f-bb9c-db0fddf3c81c",
+    "dashboard": "npx cypress run --record",
     "lint": "npx standard",
     "lint:fix": "npx standard --fix"
   },
